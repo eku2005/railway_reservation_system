@@ -84,7 +84,7 @@ java -cp .;postgresql-42.5.0.jar client
 - `BOOKTICKET`: Books ticket(s) for passengers
 
 ## ER Diagram
-![BASIC CLASSES AND RELATIONAL DIAGRAM](https://github.com/shyam2672/railway_reservation_system/blob/main/ER%20DIAGRAM.jpg)
+![BASIC CLASSES AND RELATIONAL DIAGRAM](railway-reservation-system-main/ER DIAGRAM.jpg)
 
 ## Notes
 - Update database credentials in the Java files if needed.
