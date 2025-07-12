@@ -83,9 +83,6 @@ java -cp .;postgresql-42.5.0.jar client
 - `ADDTRAIN`: Adds new train in the database
 - `BOOKTICKET`: Books ticket(s) for passengers
 
-## ER Diagram
-![BASIC CLASSES AND RELATIONAL DIAGRAM](railway-reservation-system-main/ER DIAGRAM.jpg)
-
 ## Notes
 - Update database credentials in the Java files if needed.
 - Input/output file paths in `client.java` may need to be adjusted for your environment.
